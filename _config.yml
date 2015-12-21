@@ -1,0 +1,28 @@
+name: Netizen Geo
+favicon: null
+layout_spectrum: 0.18350068503059447
+typography_spectrum: 0.07709249760955572
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.669270632090047
+  lightness: 0.5144899911247194
+  saturation: 0.2904394792858511
+  rhythmicContrast: 0.2766615301370621
+purpose: []
