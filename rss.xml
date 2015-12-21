@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Netizen Geo]]></title>
+        <description><![CDATA[Netizen Geo]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 21 Dec 2015 15:15:59 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Yet another human guinea pig]]></title>
+            <description><![CDATA[<article><h1>Yet another human guinea pig</h1><p>My aim is to explore the impact of evidence-based practice that has been proven to work in the experimental conditions (including but not limited to socio-psychological experiments, animal testing, and clinical trials), but still have a long way to go to be adopted in everyday life or in ideal case if they prove to be beneficial, to be accepted as a cultural norm in order to improve the quality of living and make the world better place. Here, I would like to document my experience and solicit the visitor’s feedback. Browse around and let me know if you like it, or not and why? What works for you and what doesn’t?</p></article>]]></description>
+            <link>undefinedabout/index.html</link>
+            <guid isPermaLink="false">6a38832b-b375-4ca8-9b86-281692725f21</guid>
+            <pubDate>Mon, 21 Dec 2015 15:15:47 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
